@@ -1,0 +1,25 @@
+.main-heading{
+    background-color: skyblue;
+    color:red;
+}
+.death:hover{
+    background-color:red;
+    color:white;
+}
+
+  
+
+.table_style{
+    overflow-y: auto;
+    height: 80vh;
+}
+
+.table_style thead th{
+    position:sticky;
+    top:0;
+}
+
+.green:hover{
+    background-color: green;
+    color:white;
+}
